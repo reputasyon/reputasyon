@@ -18,6 +18,7 @@
 - 🌐 **[wptranslate](https://github.com/reputasyon/wptranslate)** - WhatsApp Web Voice Message Translator — Chrome Extension + Gemini AI
 - 🔋 **[BatteryMonitor](https://github.com/reputasyon/BatteryMonitor)** - Native macOS menu bar app showing real-time battery charging rate, power consumption, and health
 - 🖥️ **[screenshare](https://github.com/reputasyon/screenshare)** - Chrome extension to mirror tabs to second monitor or tablet
+- 📸 **[wpphoto](https://github.com/reputasyon/wpphoto)** - WhatsApp Web product photo sender — bulk send product photos via Chrome Extension
 - 📄 **[pdfo](https://github.com/reputasyon/pdfo)** - PDF tools, right in the browser
 
 ## What I'm About
