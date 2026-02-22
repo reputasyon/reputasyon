@@ -16,6 +16,7 @@
 
 - 🔗 **[lyink](https://github.com/reputasyon/lyink)** - Open-source link in bio. Zero dependencies, visual editor, 3 themes. Deploy in 30 seconds.
 - 🌐 **[wptranslate](https://github.com/reputasyon/wptranslate)** - WhatsApp Web Voice Message Translator — Chrome Extension + Gemini AI
+- 💰 **[trendprice](https://github.com/reputasyon/trendprice)** - Trendyol komisyon tablosunda otomatik kar/zarar hesaplama — Chrome Extension
 - 🔋 **[BatteryMonitor](https://github.com/reputasyon/BatteryMonitor)** - Native macOS menu bar app showing real-time battery charging rate, power consumption, and health
 - 🖥️ **[screenshare](https://github.com/reputasyon/screenshare)** - Chrome extension to mirror tabs to second monitor or tablet
 - 📸 **[wpphoto](https://github.com/reputasyon/wpphoto)** - WhatsApp Web product photo sender — bulk send product photos via Chrome Extension
