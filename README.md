@@ -14,6 +14,7 @@
 
 ## Current Projects
 
+- 🔍 **[TextGrab](https://github.com/reputasyon/TextGrab)** - Screen OCR for macOS. Capture text from any screen region with a keyboard shortcut. Vision framework, ~860 lines of Swift.
 - 🔗 **[lyink](https://github.com/reputasyon/lyink)** - Open-source link in bio. Zero dependencies, visual editor, 3 themes. Deploy in 30 seconds.
 - 🌐 **[wptranslate](https://github.com/reputasyon/wptranslate)** - WhatsApp Web Voice Message Translator — Chrome Extension + Gemini AI
 - 💰 **[trendprice](https://github.com/reputasyon/trendprice)** - Trendyol komisyon tablosunda otomatik kar/zarar hesaplama — Chrome Extension
