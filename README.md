@@ -14,7 +14,7 @@
 
 ## Current Projects
 
-- 🚀 **[coolify-production-playbook](https://github.com/reputasyon/coolify-production-playbook)** - Battle-tested playbook for running Coolify in production on a €13 VPS — hardening script, CI/CD over SSH, real incident reports. AI-agent-ready.
+- 🚀 **[coolify-hetzner-playbook](https://github.com/reputasyon/coolify-hetzner-playbook)** - Battle-tested playbook for running Coolify in production on a €13 Hetzner VPS — server guide, hardening script, CI/CD over SSH, real incident reports. AI-agent-ready.
 - 🗂️ **[ProjectDock](https://github.com/reputasyon/ProjectDock)** - macOS menu bar launcher that opens favorite project folders in Ghostty with one click, in a multi-pane split layout.
 - 🔍 **[TextGrab](https://github.com/reputasyon/TextGrab)** - Screen OCR for macOS. Capture text from any screen region with a keyboard shortcut. Vision framework, ~860 lines of Swift.
 - 🔗 **[lyink](https://github.com/reputasyon/lyink)** - Open-source link in bio. Zero dependencies, visual editor, 3 themes. Deploy in 30 seconds.
